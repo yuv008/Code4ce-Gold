@@ -1,0 +1,2360 @@
+2024-10-17 22:28:53,450 - INFO - Successfully downloaded NLTK resource: punkt
+2024-10-17 22:28:53,455 - INFO - Successfully downloaded NLTK resource: stopwords
+2024-10-17 22:28:53,473 - INFO - Successfully downloaded NLTK resource: wordnet
+2024-10-17 22:28:53,480 - INFO - Successfully downloaded NLTK resource: averaged_perceptron_tagger
+2024-10-17 22:28:53,503 - INFO - Loading data from MongoDB...
+2024-10-17 22:28:53,512 - INFO - Loaded 50 documents
+2024-10-17 22:28:53,515 - INFO - Processing column: summary
+2024-10-17 22:28:53,519 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,522 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,524 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,527 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,530 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,534 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,537 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,541 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,543 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,546 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,549 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,553 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,556 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,559 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,562 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,564 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,571 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,576 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,581 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,583 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,586 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,590 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,592 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,596 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,600 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,603 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,606 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,609 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,612 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,615 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,618 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,621 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,625 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,628 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,632 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,635 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,638 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,640 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,644 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,645 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,647 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,651 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,652 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,655 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,658 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,660 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,663 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,665 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,667 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:53,669 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:28:55,900 - ERROR - Error in process_and_save: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,679 - INFO - Successfully downloaded NLTK resource: punkt
+2024-10-17 22:30:40,681 - INFO - Successfully downloaded NLTK resource: stopwords
+2024-10-17 22:30:40,698 - INFO - Successfully downloaded NLTK resource: wordnet
+2024-10-17 22:30:40,703 - INFO - Successfully downloaded NLTK resource: averaged_perceptron_tagger
+2024-10-17 22:30:40,712 - INFO - Loading data from MongoDB...
+2024-10-17 22:30:40,715 - INFO - Loaded 50 documents
+2024-10-17 22:30:40,715 - INFO - Processing column: summary
+2024-10-17 22:30:40,718 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,720 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,722 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,724 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,727 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,730 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,732 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,735 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,737 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,739 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,742 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,744 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,747 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,748 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,750 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,753 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,757 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,760 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,763 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,767 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,771 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,774 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,777 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,781 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,785 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,788 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,791 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,793 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,796 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,799 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,802 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,805 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,807 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,809 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,812 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,814 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,816 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,818 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,820 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,823 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,824 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,827 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,830 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,832 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,834 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,836 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,839 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,841 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,843 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:40,846 - WARNING - Tokenization failed: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-10-17 22:30:43,443 - ERROR - Error in process_and_save: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\yuvra/nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\share\\nltk_data'
+    - 'C:\\Users\\yuvra\\OneDrive\\Desktop\\WarCast\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\yuvra\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
